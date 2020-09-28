@@ -49,4 +49,4 @@ elif rabbit_final > dog_final and rabbit_final > cat_final and rabbit_final > fi
 elif hamster_final > dog_final and hamster_final > cat_final and hamster_final > fish_final and hamster_final > rabbit_final and hamster_final > bird_final:
   print("You might be suitable to keep a hamster!")
 else:
-print("You might be suitable to keep a bird!")
+  print("You might be suitable to keep a bird!")
