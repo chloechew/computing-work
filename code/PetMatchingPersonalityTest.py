@@ -14,7 +14,7 @@ rabbit1 = input("I am gentle.")
                 
 hamster1 = input("I don't get emotional easily.")
                  
-bird1 = input("I like to be free.")             
+bird1 = input("I love to be free.")             
 
 dog2 = input("I appreciate the things around me.")
 
