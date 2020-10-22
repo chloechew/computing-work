@@ -1,6 +1,6 @@
 print("Title of program: Pet Matching Personality test")
 print()
-print("Hello! Please answer the following questions truthfully and we'll suggest a pet for you!")
+print("Hello! Please answer the following questions truthfully and we'll suggest a pet that matches your personality!")
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
 print()
 
